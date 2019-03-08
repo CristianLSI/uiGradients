@@ -1339,5 +1339,9 @@
     {
         "name": "Grade Grey",
         "colors": ["#bdc3c7","#2c3e50"]
+    },
+    {
+        "name": "Dark MicroSDE",
+        "colors": ["#16191f", "#232932"]
     }
 ]
